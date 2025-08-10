@@ -1,8 +1,7 @@
 {
   "channels": [
     {
-      "name": "PTV Sports",
-      "url": "https://cdn08khi.tamashaweb.com:8087/jazzauth/PAKvsWI-abr/live/PAKvsWI-promo/chunks.m3u8?nimblesessionid=64221931&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMC8yMDI1IDg6Mjc6MDQgQU0maGFzaF92YWx1ZT1ib3NtVHpqdWo2MW13Szd2M0Y0TlJnPT0mdmFsaWRtaW51dGVzPTEw"
+   "url": "https://cdn08khi.tamashaweb.com:8087/jazzauth/PAKvsWI-abr/live/PAKvsWI-promo/chunks.m3u8?nimblesessionid=64221931&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMC8yMDI1IDg6Mjc6MDQgQU0maGFzaF92YWx1ZT1ib3NtVHpqdWo2MW13Szd2M0Y0TlJnPT0mdmFsaWRtaW51dGVzPTEw"
     }
   ]
 }
